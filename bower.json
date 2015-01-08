@@ -1,0 +1,26 @@
+{
+  "name": "auiExercise",
+  "version": "1.0.0",
+  "authors": [
+    "linglunch <chihungfei@126.com>"
+  ],
+  "description": "\"start application\"",
+  "keywords": [
+    "app",
+    "try",
+    "ngbp"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.8"
+  }
+}
